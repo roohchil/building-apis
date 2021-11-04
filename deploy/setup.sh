@@ -41,3 +41,6 @@ ln -s /etc/nginx/sites-available/profiles_api.conf /etc/nginx/sites-enabled/prof
 systemctl restart nginx.service
 
 echo "DONE! :)"
+
+
+"Hey, check"
